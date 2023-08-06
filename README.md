@@ -13,9 +13,8 @@ Your feedback is welcome at _link to GitHub issue tracker_ or at _TC chair email
 
 The following elements are made available for a public review period ending no earlier than 2024-01-08, and no later than 2024-08-08:
 
-* [{prose element}]({link to prose element})
-* [{element #1}]({link to element #1})
-* ...
+* [PCD SMPTE ST 2067-204](https://github.com/SMPTE/st2067-204/blob/main/35PM-PCD-ST-2067-204-ADM-Audio-Plugin-20230802.pdf)
+* [Element a - Schema XSD](https://github.com/SMPTE/st2067-204/blob/main/35PM-CD-ST-2067-204a-ADM-Audio-Plugin-20230606.xsd)
 
 ## Details
 
