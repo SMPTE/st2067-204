@@ -20,6 +20,8 @@ The following elements are made available for a public review period ending no e
 
 SMPTE ST 2067-204: Interoperable Master Format – Audio with ADM Metadata Plug-in – Public Committee Draft (Public CD)
 
+This material is work under development and shall not be referred to as a SMPTE Standard, Recommended Practice, or Engineering Guideline. It is distributed for review and comment; distribution does not constitute publication.
+
 Audio Definition Model (ADM) metadata is specified in Recommendation ITU-R BS.2076. It provides an open, common metadata model that can describe channel-, object-, and scene-based audio to enable immersive and interactive experiences for broadcasting and cinema.
 
 SMPTE ST 2067-204 specifies a plug-in mechanism to add audio with ADM metadata to IMF Compositions, utilizing the ADM MXF mapping specified in SMPTE ST 2131. The plug-in complements the "Audio with Frame-based S-ADM Metadata Plug-in" defined by SMPTE ST 2067-203. Both plug-ins are designed to be as similar as possible to aid with interchange and conversion between the formats.
