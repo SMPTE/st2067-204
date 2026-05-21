@@ -9,6 +9,8 @@ Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONF
 
 Your feedback is welcome via the repo [Issue Tracker](https://github.com/SMPTE/st2067-204/issues) or at [35pm-chair@smpte.org](mailto:35pm-chair@smpte.org).
 
+<!-- PCD-INFO:START -->
+
 ## Public Committee Draft (PCD) Notice
 
 The following elements are made available for a public review period ending no earlier than 2024-02-08, and no later than 2024-08-08:
@@ -29,3 +31,4 @@ SMPTE ST 2067-204 specifies a plug-in mechanism to add audio with ADM metadata t
 Today in many post-produced audio workflows ADM metadata is carried in BW64 files along with PCM audio (Recommendation ITU-R BS.2088). Such files can be converted easily to the IMF Track Files defined in SMPTE ST 2067-204, allowing the content to be included in IMF Compositions. As such, the ADM-described content can be properly synchronized with related components (such as video), and can be managed, processed, versioned, and archived by IMF systems and workflows.
 
 A Public Committee Draft of SMPTE ST 2067-204 is being provided for review on GitHub for at least six months from 2023-08-08. Developers are encouraged to implement the design and provide feedback via GitHub to improve the document and to increase interoperability between implementations.
+<!-- PCD-INFO:END -->
