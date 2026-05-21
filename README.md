@@ -1,4 +1,4 @@
-# Public CD of SMPTE ST 2067-204
+SMPTE ST 2067-204
 
 ## General
 
